@@ -33,4 +33,4 @@ git clone [https://github.com/Ar-Kal/circuit-simulator-pyqt.git](https://github.
 
     Node 1 is the positive (+) terminal; Node 2 is the negative (-) terminal.
 
-Click ▶ Run Simulation to view the calculated node voltages and equations in the output log.
+Click Run Simulation to view the calculated node voltages and equations in the output log.
